@@ -1,0 +1,20 @@
+COMPETITORS = {
+    "AmexGBT" :   "https://www.amexglobalbusinesstravel.com/",
+    "mycwt":             "https://www.mycwt.com/",
+    "bcdtravel":         "https://www.bcdtravel.com/",
+    "tzell":             "https://tzell.com/",
+    "egencia":           "https://www.egencia.com/en/",
+    "travelperk":        "https://www.travelperk.com/",
+    "fcmtravel":         "https://www.fcmtravel.com/en-us",
+    "dt":                "https://www.dt.com/",
+    "navan":             "https://navan.com/",
+    "leconnoisseur":     "https://www.le-connoisseur.com/en",
+    "blueorangetravel":  "https://blueorangetravel.com/fashion-travel-agency/",
+    "luxefashiontrips":  "https://www.luxefashiontrips.com/",
+    "foresttravel":      "https://foresttravel.com/experiences/paris-fashion-show-/",
+    "aavluxurytravel":   "https://www.aavluxurytravel.com/",
+    "EFT":               "https://www.exclusive-france-tours.com/",
+    "deluxefrance":      "https://www.deluxefrance.com/details-fashion+tours-559",
+    "frenchpromise":     "https://www.frenchpromise.com/",
+}
+
